@@ -1,3 +1,6 @@
 [submodule "eventbrite"]
 	path = eventbrite
 	url = git://github.com/ryanjarvinen/eventbrite.php.git
+[submodule "phpwkhtmltopdf"]
+	path = phpwkhtmltopdf
+	url = git://github.com/mikehaertl/phpwkhtmltopdf.git

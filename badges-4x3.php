@@ -97,54 +97,6 @@
 	global $badges;
 	echo $badges;
 	?>
-	<!-- <tr>
-		<td class="side-rule"></td>
-		<td class="badge">
-			<h1>{$first_name[0]} {$last_name[0]}</h1>
-			<h2>{$job_title[0]}</h2>
-			<h2>{$company[0]}</h2>
-			<img src="http://www.openwest.org/wp-content/uploads/2013/02/open-west-conference-logo.png" width="100px;">
-		</td>
-		<td class="badge">
-			<h1>{$first_name[1]} {$last_name[1]}</h1>
-			<h2>{$job_title[1]}</h2>
-			<h2>{$company[1]}</h2>
-			<img src="http://www.openwest.org/wp-content/uploads/2013/02/open-west-conference-logo.png" width="100px;">
-		</td>
-		<td class="side-rule"></td>
-	</tr>
-	<tr>
-		<td class="side-rule"></td>
-		<td class="badge">
-			<h1>{$first_name[2]} {$last_name[2]}</h1>
-			<h2>{$job_title[2]}</h2>
-			<h2>{$company[2]}</h2>
-			<img src="http://www.openwest.org/wp-content/uploads/2013/02/open-west-conference-logo.png" width="100px;">
-		</td>
-		<td class="badge">
-			<h1>{$first_name[3]} {$last_name[3]}</h1>
-			<h2>{$job_title[3]}</h2>
-			<h2>{$company[3]}</h2>
-			<img src="http://www.openwest.org/wp-content/uploads/2013/02/open-west-conference-logo.png" width="100px;">
-		</td>
-		<td class="side-rule"></td>
-	</tr>
-	<tr>
-		<td class="side-rule"></td>
-		<td class="badge">
-			<h1>{$first_name[4]} {$last_name[4]}</h1>
-			<h2>{$job_title[4]}</h2>
-			<h2>{$company[4]}</h2>
-			<img src="http://www.openwest.org/wp-content/uploads/2013/02/open-west-conference-logo.png" width="100px;">
-		</td>
-		<td class="badge">
-			<h1>{$first_name[5]} {$last_name[5]}</h1>
-			<h2>{$job_title[5]}</h2>
-			<h2>{$company[5]}</h2>
-			<img src="http://www.openwest.org/wp-content/uploads/2013/02/open-west-conference-logo.png" width="100px;">
-		</td>
-		<td class="side-rule"></td>
-	</tr> -->
 	<tr><td class="side-rule"></td><td class="top-rule"></td><td class="top-rule"></td><td class="side-rule"></td></tr>
 </table>
 </body>
